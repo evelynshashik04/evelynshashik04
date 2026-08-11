@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">  
+  <h1> Hi there! I'm Evelyn ✨ </h1> 
+</div>
 
-<!--
-**evelynshashik04/evelynshashik04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>ML & Computer Vision</b> | <b>Low-Level Systems</b> (C/C++, PyTorch, Python) | <b>CS @ UCSC</b>
+</p>
 
-Here are some ideas to get you started:
+###### I'm currently working on an NLP project: Swipe-Typing Decoding! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### If you'd like to connect with me, I'm on LinkedIn!
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/evelyn-shashikanth-a9542a252)
