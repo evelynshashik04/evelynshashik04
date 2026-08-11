@@ -8,6 +8,8 @@
 
 ###### I'm currently working on an NLP project: Swipe-Typing Decoding! 
 
-###### If you'd like to connect with me, I'm on LinkedIn!
-
+###### If you'd like to connect, I'm on LinkedIn!
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/evelyn-shashikanth-a9542a252)
+
+> [!NOTE]
+> I'm in the process of moving all my projects to this github account, so please stay tuned!
