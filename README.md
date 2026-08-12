@@ -8,13 +8,13 @@
 
 ###### I'm currently working on an NLP project: Swipe-Typing Decoding! 
 
-###### If you'd like to connect, I'm on LinkedIn!
-<a href="https://www.linkedin.com/in/evelyn-shashikanth-a9542a252" target="_blank">
-  <img src="https://githubusercontent.com" width="35" alt="LinkedIn">
-</a>
+
 
 
 > [!NOTE]
 > I'm in the process of moving all my projects to this github account, so please stay tuned!
 
-![Visitors](https://visitorbadge.io)
+###### If you'd like to connect, I'm on LinkedIn!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=shield&logoColor=white)](https://www.linkedin.com/in/evelyn-shashikanth-a9542a252)
+
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=evelynshashik04&repo=evelynshashik04&countColor=007ec6)
